@@ -5,5 +5,5 @@
 
 <h4> Naming Conventions </h4>
 
-* Leetcode = LEETCODE_\<TestNumber\>_\<QuestionNumber\>
-* www.acmicpc.net = BOJ_\<QuestionNumber\>
+* Leetcode = LC_\<TestNumber\>_\<QuestionNumber\>
+* www.acmicpc.net = Q_\<QuestionNumber\>
